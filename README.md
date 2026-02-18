@@ -11,6 +11,5 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="Areeba Liaqat Khan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-
-[linkedin]: https://www.linkedin.com/in/areeba-liaqat-khan/
+<img align="left" alt="Areeba Liaqat khan| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+https://www.linkedin.com/in/areeba-liaqat-khan/
